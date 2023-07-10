@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreeyesh Mhatre</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" width=400 alt="Coding!" src="https://dresma.ai/wp-content/uploads/2022/02/Backend-Developer-NodeJS.gif">
+<img align="right" width=400 alt="Coding!" src="https://media.licdn.com/dms/image/D5622AQEe5Tel8aAYpA/feedshare-shrink_800/0/1688957813544?e=1691625600&v=beta&t=Ub2iJJdlNdXOEz0RpIwdCgWh-6TZDwN04IizrXy4Beo">
 
 - 🔭 I’m currently working on **Vidya-Pravha**
 
